@@ -40,7 +40,7 @@ h1{
 .title-image{
   width:60%;
   transform: rotate(25deg);
-  position:absolute;
+  position:relative;
   left: 30%;
 
 
